@@ -30,6 +30,14 @@ Payload sugerido:
 }
 ```
 
+### PUT
+
+Endoint: localhost:8085/addresses/{id}
+
+### DELETE
+
+Endoint: localhost:8085/addresses/{id}
+
 ## Como rodar a aplicação
 
 O banco para testes é executado no h2.
